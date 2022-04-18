@@ -2,5 +2,6 @@
 apt-get update && apt-get upgrade
 pkg install nodejs
 pkg install ffmpeg
-npm i
+pkg install yarn
+yarn
 node reiko.js
