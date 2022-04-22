@@ -6,7 +6,6 @@
         />
     </a>
 </p>
-## REQUERIMENTOS :
 
 - [INSTALAÇÃO PC](https://github.com/ReikoOFC/reikobot#requerimentos-)
 - [INSTALAÇÃO CELULAR](https://github.com/ReikoOFC/reikobot/edit/master/README.md#instala%C3%A7%C3%A3o-para-celular)
