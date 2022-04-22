@@ -103,7 +103,8 @@ E ETC...
 
 ## REQUERIMENTOS :
 - [GIT](https://git-scm.com/downloads)
-- [NODE VERSÃO LTS](https://nodejs.org/en/) 
+- [NODE VERSÃO LTS](https://nodejs.org/pt-br/) 
+- [FFMPEG](ffmpeg-git-essentials.7z)
 
 comandos para a instação:
 
